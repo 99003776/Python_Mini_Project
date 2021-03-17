@@ -4,12 +4,12 @@
 
 # Detail requirements
 ## High Level Requirements: 
- PS No.   |  Name          |    Features                    | Issuess  | Raised |Issues Resolved|No Test Cases|Test Case Pass
----------|----------------|-----------------------------   |----------|--------|---------------|-------------|--------------
-99003779 | Neha Tabassum  | Basic Arithmetic Calculation   |   4   | 4  |     4     |     40    |    40
-99003781 | Aman Shivachh  | Basic Trigonometry Calculation |  3   |  3  |     3     |     20    |    20
-99003776 | Pawan Kumar    | Area Calculator                |   4   | 4  |     4     |    8     |    8 
-99003780 | G Sai Kiran    |Conversion                      |   2    |  2 |      2      |     18    |    18
+Id    |  Requirements                           |   Description                                                                    | Status  
+------|-----------------------------------------|--------------------------------------------------------------------------------- |----------
+HLR01 |  Searching the Data                     | Search all the data from 5 sheets when user defines the PS number to be searched.|Implemented
+HLR02 | writing to excel                        | Write all the data from different spreadsheet in one master sheet                |Implemented
+HLR03 | extracting user defined data            | Write new user required data in the excel file.                                  |Implemented
+
 ##  Low level Requirements:
 --- TBD in Tabular Format 
 -- ID | Description | Status (Implemented/Future)
