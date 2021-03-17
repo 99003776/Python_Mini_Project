@@ -6,7 +6,7 @@
 ## High Level Requirements: 
 Id    |  Requirements                           |   Description                                                                    | Status  
 ------|-----------------------------------------|--------------------------------------------------------------------------------- |----------
-HLR01 |  Searching the Data                     | Search all the data from 5 sheets when user defines the PS number to be searched.|Implemented
+HLR01 |  Searching the Data                     | Search all the employee data from 5 sheets when user defines the PS number to be searched.|Implemented
 HLR02 | writing to excel                        | Write all the data from different spreadsheet in one master sheet                |Implemented
 HLR03 | extracting user defined data            | Write new user required data in the excel file.                                  |Implemented
 
