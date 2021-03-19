@@ -1,10 +1,9 @@
 # Design
 
 ## High Level Design 
+![HLR M](https://user-images.githubusercontent.com/78869826/111830608-3ff05b80-8914-11eb-8d6c-cbe3a4818c25.JPG)
 
---- TBD Structural and Behavioural Diagram
-![HighLevelStructuralDiagram](Link to Pic)
-![HighLevelBehaviouralDiagram](Link to Pic)
+
 
 ## Low Level Design 
 
