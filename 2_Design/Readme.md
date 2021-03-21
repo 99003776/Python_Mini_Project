@@ -1,7 +1,7 @@
 # Design
 
 ## High Level Design 
-![HLR M](https://user-images.githubusercontent.com/78869826/111830608-3ff05b80-8914-11eb-8d6c-cbe3a4818c25.JPG)
+![Flowchert](https://user-images.githubusercontent.com/78869826/111916926-3f39ff80-8aa3-11eb-8972-ad111d440f1c.JPG)
 
 
 
