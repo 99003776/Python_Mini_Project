@@ -1,3 +1,6 @@
+## Problem Statement
+Group - 3 miniproject extension
+master file should summarize / count the data across rows and publish the data in a new sheet
 # Requirements
 ## Introduction
  In this Project,I am extracted the employee data in one Master excel sheet from 5 different spreadsheets.The data required is defined by the user.
