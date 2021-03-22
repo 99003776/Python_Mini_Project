@@ -21,8 +21,9 @@ LLR04    | Printing extracted data              | 10 different data to be printe
 ## Research
 Here I'm using Python 3 methods to work with Excel Sheets to find the particular data that are available on five different sheets and Print in to the another Master Sheet.
 
-## Defining Our System
-  
 ## SWOT ANALYSIS
-![SWOT-Sample](Link to Pic)
+
+![swot](https://user-images.githubusercontent.com/78869826/111928167-e1c0a580-8ad8-11eb-838e-41cceb48032f.JPG)
+
+
 
