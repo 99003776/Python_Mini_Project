@@ -28,5 +28,12 @@ Here I'm using Python 3 methods to work with Excel Sheets to find the particular
 
 ![swot](https://user-images.githubusercontent.com/78869826/111928167-e1c0a580-8ad8-11eb-838e-41cceb48032f.JPG)
 
+## Defining Our System
+
+Python analysis tool is used:
+1. Take all the sheets present in single excel file 
+2. Extract the data based on used input from all the files 
+3. Save the data into mastersheet, in same excel file
+
 
 
